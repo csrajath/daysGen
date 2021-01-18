@@ -1,0 +1,14 @@
+attrs==20.3.0
+click==7.1.2
+dateparser==1.0.0
+joblib==1.0.0
+nltk==3.5
+number-parser==0.2.1
+numpy==1.19.5
+pandas==1.2.0
+python-dateutil==2.8.1
+pytz==2020.5
+regex==2020.11.13
+six==1.15.0
+tqdm==4.55.2
+tzlocal==2.1
